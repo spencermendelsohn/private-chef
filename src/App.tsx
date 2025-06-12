@@ -141,41 +141,6 @@ const TestimonialFooter = styled.footer`
   font-size: 0.95rem;
 `;
 
-const ContactForm = styled.form`
-  display: grid;
-  gap: 1rem;
-  margin-top: 1rem;
-`;
-
-const Input = styled.input`
-  padding: 1rem;
-  border-radius: 0.5rem;
-  border: 1px solid #ddd;
-  font-size: 1rem;
-`;
-
-const Textarea = styled.textarea`
-  padding: 1rem;
-  border-radius: 0.5rem;
-  border: 1px solid #ddd;
-  font-size: 1rem;
-`;
-
-const SubmitButton = styled.button`
-  background: #fbbf24;
-  color: #fff;
-  font-weight: 600;
-  padding: 1rem 2rem;
-  border-radius: 0.5rem;
-  border: none;
-  font-size: 1rem;
-  transition: background 0.2s;
-  cursor: pointer;
-  &:hover {
-    background: #f59e0b;
-  }
-`;
-
 const LocationSection = styled.section`
   background: #111827;
   color: #fff;
