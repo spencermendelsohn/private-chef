@@ -293,20 +293,9 @@ const Home = () => {
         <SectionTitle>Client Experiences</SectionTitle>
         <TestimonialBlock>
           <p>
-            "Chef Mendelsohn created an extraordinary dining experience for our
-            anniversary. His attention to detail and creative menu exceeded all
-            expectations. Every course was a masterpiece!"
+            "The quality of the food was amazing. My favorite meal was his creamy garlic chicken pasta!"
           </p>
-          <TestimonialFooter>— Sarah L.</TestimonialFooter>
-        </TestimonialBlock>
-        <TestimonialBlock>
-          <p>
-            "The private dinner service was exceptional. From the initial
-            consultation to the final course, everything was perfectly executed.
-            The food was innovative yet approachable, and the presentation was
-            stunning."
-          </p>
-          <TestimonialFooter>— Mark & Jess</TestimonialFooter>
+          <TestimonialFooter>— Alex</TestimonialFooter>
         </TestimonialBlock>
       </Section>
 
